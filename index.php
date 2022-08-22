@@ -7,8 +7,6 @@ ini_set('display_startup_errors', 1);
     $mysql = "SELECT * FROM `product_insert_data_table` ORDER BY RAND() LIMIT 3";
     $result = mysqli_query($conn, $mysql);
 
-
-//cwdchiwchoiwechiowhwiuochdwowdduoc
 ?>
 
 <!DOCTYPE html>
